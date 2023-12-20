@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 12 Pro",
+      "brand": "Apple",
+      "desc": "6.1-inch display",
+      "price": 599,
+      "image": "https://www.freeiconspng.com/thumbs/iphone-x-pictures/apple-iphone-x-pictures-5.png"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 12",
+      "brand": "Apple",
+      "desc": "5.4-inch mini display",
+      "price": 699,
+      "image": "https://media.croma.com/image/upload/v1662703724/Croma%20Assets/Communication/Mobiles/Images/261934_qgssvy.png"
+    },
+    {
+      "id": 3,
+      "name": "Galaxy S",
+      "brand": "Samsung",
+      "desc": "6.5-inch display",
+      "price": 399,
+      "image": "https://getmobil.com/_next/image/?url=https%3A%2F%2Fassets.getmobil.com%2Fuploads%2F6210%2Fgetmobil-apple-iphonesex-white-00png.png&w=1920&q=50"
+    },
+    {
+      "id": 4,
+      "name": "iPhone 12 Pro",
+      "brand": "Apple",
+      "desc": "6.1-inch display",
+      "price": 899,
+      "image": "https://www.freeiconspng.com/thumbs/iphone-x-pictures/apple-iphone-x-pictures-5.png"
+    },
+    {
+      "id": 5,
+      "name": "iPhone 12",
+      "brand": "Apple",
+      "desc": "5.4-inch mini display",
+      "price": 599,
+      "image": "https://media.croma.com/image/upload/v1662703724/Croma%20Assets/Communication/Mobiles/Images/261934_qgssvy.png"
+    },
+    {
+      "id": 6,
+      "name": "Galaxy S",
+      "brand": "Samsung",
+      "desc": "6.5-inch display",
+      "price": 899,
+      "image": "https://getmobil.com/_next/image/?url=https%3A%2F%2Fassets.getmobil.com%2Fuploads%2F6210%2Fgetmobil-apple-iphonesex-white-00png.png&w=1920&q=50"
+    },
+    {
+      "id": 7,
+      "name": "iPhone 12 Pro",
+      "brand": "Apple",
+      "desc": "6.1-inch display",
+      "price": 799,
+      "image": "https://www.freeiconspng.com/thumbs/iphone-x-pictures/apple-iphone-x-pictures-5.png"
+    },
+    {
+      "id": 8,
+      "name": "iPhone 12",
+      "brand": "Apple",
+      "desc": "5.4-inch mini display",
+      "price": 699,
+      "image": "https://media.croma.com/image/upload/v1662703724/Croma%20Assets/Communication/Mobiles/Images/261934_qgssvy.png"
+    },
+    {
+      "id": 9,
+      "name": "Galaxy S",
+      "brand": "Samsung",
+      "desc": "6.5-inch display",
+      "price": 399,
+      "image": "https://getmobil.com/_next/image/?url=https%3A%2F%2Fassets.getmobil.com%2Fuploads%2F6210%2Fgetmobil-apple-iphonesex-white-00png.png&w=1920&q=50"
+    },
+    {
+      "id": 10,
+      "name": "iPhone 12 Pro",
+      "brand": "Apple",
+      "desc": "6.1-inch display",
+      "price": 999,
+      "image": "https://www.freeiconspng.com/thumbs/iphone-x-pictures/apple-iphone-x-pictures-5.png"
+    },
+    {
+      "id": 11,
+      "name": "iPhone 12",
+      "brand": "Apple",
+      "desc": "5.4-inch mini display",
+      "price": 699,
+      "image": "https://media.croma.com/image/upload/v1662703724/Croma%20Assets/Communication/Mobiles/Images/261934_qgssvy.png"
+    },
+    {
+      "id": 12,
+      "name": "Galaxy S",
+      "brand": "Samsung",
+      "desc": "6.5-inch display",
+      "price": 399,
+      "image": "https://getmobil.com/_next/image/?url=https%3A%2F%2Fassets.getmobil.com%2Fuploads%2F6210%2Fgetmobil-apple-iphonesex-white-00png.png&w=1920&q=50"
+    }
+  ]
+}
